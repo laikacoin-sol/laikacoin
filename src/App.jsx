@@ -116,7 +116,7 @@ export default function LaikaLandingPage() {
               Twitter
             </a>
             <a
-              href="https://t.me/+YOmy_tO31xE1NTZh"
+              href="https://t.me/laikamemecoinofficial"
               className="bg-indigo-500 hover:bg-indigo-100 text-white transition-colors px-6 py-3 rounded-full inline-flex items-center"
             >
               <Globe className="mr-2" />
