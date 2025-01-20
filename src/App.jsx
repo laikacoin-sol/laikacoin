@@ -41,7 +41,7 @@ export default function LaikaLandingPage() {
         <h1 className="text-5xl md:text-7xl font-bold mb-6">To The Moon with Laika!</h1>
         <p className="text-xl md:text-2xl mb-8">The first memecoin to honor space exploration&apos;s goodest girl.</p>
         <a
-          href="#"
+          href="https://pump.fun/coin/57GJspLHHMRyeVC4neEdmxDtSvoBjXkcVCXN52Z7pump"
           className="bg-yellow-400 text-gray-900 px-8 py-3 rounded-full text-lg font-semibold hover:bg-yellow-300 transition-colors inline-flex items-center"
         >
           Buy $LAIKA
@@ -109,18 +109,18 @@ export default function LaikaLandingPage() {
           <p className="text-xl mb-8">Be part of our growing pack of space enthusiasts and memecoin lovers!</p>
           <div className="flex justify-center space-x-4 ">
             <a
-              href="#"
+              href="https://x.com/LaikaMemeCoin"
               className="bg-blue-500 hover:bg-blue-100 text-white transition-colors px-6 py-3 rounded-full inline-flex items-center "
             >
               <Globe className="mr-2" />
               Twitter
             </a>
             <a
-              href="#"
+              href="https://t.me/+YOmy_tO31xE1NTZh"
               className="bg-indigo-500 hover:bg-indigo-100 text-white transition-colors px-6 py-3 rounded-full inline-flex items-center"
             >
               <Globe className="mr-2" />
-              Discord
+              Telegram
             </a>
           </div>
         </div>
