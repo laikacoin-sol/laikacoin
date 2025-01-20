@@ -1,7 +1,7 @@
 import { useState, useCallback } from "react";
 import { Check, Copy } from "lucide-react";
 
-const address = "GWWnBqNTqSP1bJfuA6GVwHXRXBXSCBdYwZvpzEXBVHSa";
+const address = "57GJspLHHMRyeVC4neEdmxDtSvoBjXkcVCXN52Z7pump";
 
 export default function Address() {
   const [isCopied, setIsCopied] = useState(false);
